@@ -9,7 +9,7 @@
 </p>
 
 - <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RybaCZE&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RybaCZE code graph" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RybaCZE&show_icons=true&locale=en&theme=tokyonigh" alt="RybaCZE stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RybaCZE&show_icons=true&locale=en&theme=tokyonight" alt="RybaCZE stats" /></p>
 
   <!--
   **RybaCZE/RybaCZE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
