@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'am a Fish :fish:</h1>
-<h3 align="center">Fish drowning in IT:crying_cat_face:</h3>
+<h3 align="center">Fish drowning in IT :crying_cat_face:</h3>
 
 - currently learning: **C#, Rust**
 
