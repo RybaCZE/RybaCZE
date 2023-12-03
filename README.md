@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi, I'am a Fish :fish:</h1>
+<h3 align="center">Drowning IT Fish</h3>
 
+- currently learning: **C#, Rust**
+- can
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RybaCZE&show_icons=true&locale=en&layout=compact" alt="RybaCZE code graph" /></p>
 <!--
 **RybaCZE/RybaCZE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
