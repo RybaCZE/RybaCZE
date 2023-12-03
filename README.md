@@ -2,8 +2,7 @@
 <h3 align="center">Fish drowning in IT :crying_cat_face:</h3>
 
 - currently learning: **C#, Rust**
-
-<h3 align="left">Discord</h3>
+- Can do: Python, rust, C#
 <p align="left">
 <a href="https://discord.gg/rybacz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rybacz" height="30" width="40" /></a>
 </p>
